@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Itaú Unibanco <img src="https://www.itau.com.br/content/dam/itau/favicon.png" alt="drawing" width="20"/> 
+- 🔭 I’m currently working at PagSeguro PagBank <img src="https://assets.pagseguro.com.br/ps-bootstrap/v6.79.0/img/favicon.ico" alt="drawing" width="20"/> 
 - 🌱 I’m currently learning Golang <img src="https://golang.org/lib/godoc/images/go-logo-blue.svg" alt="drawing" width="30"/>
 
 <div>
